@@ -9,3 +9,5 @@ changes through master again
 =======
 Css changes
 >>>>>>> css-assignments
+
+Javascript file changes
