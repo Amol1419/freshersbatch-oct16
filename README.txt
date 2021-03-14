@@ -11,5 +11,8 @@ Css changes
 >>>>>>> css-assignments
 
 Javascript file changes
+<<<<<<< HEAD
 
 second time changes in Javascript file
+=======
+>>>>>>> js-assignments
